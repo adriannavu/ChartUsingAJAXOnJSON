@@ -1,7 +1,7 @@
 $(document).ready(function() {
   console.log('scripts loaded');
 
-  var url = '/js/nations.json';
+  var url = './js/nations.json';
   var nations = [];
   var html = '';
 
