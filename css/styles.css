@@ -1,0 +1,16 @@
+.nation-name {
+  grid-column: 1/1;
+  border-right: 1px solid black;
+}
+
+#nations-list{
+  display: grid;
+  grid-template-columns: 15% 85%;
+  border: 1px solid black;
+}
+
+.bar {
+  height: 20px;
+  background: #ff4d4d;
+  grid-column: 2/2;
+}
