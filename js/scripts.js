@@ -25,7 +25,7 @@ $(document).ready(function() {
       });
       html += '</div>';
       html += '</div>';
-      $('#results').append(html);
+      $('#ajax-table').append(html);
     } //close success function
   });
 });
